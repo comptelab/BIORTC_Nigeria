@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Emacs / editor backups
+*~
+*.~undo-tree~
+.#*
+\#*\#
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Large temporary outputs
+outputs/
+results/
+figures/generated/
