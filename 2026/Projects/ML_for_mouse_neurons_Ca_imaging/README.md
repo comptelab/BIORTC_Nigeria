@@ -1,1 +1,1 @@
-
+Here is the dataset for the mouse neurons Ca2+ imaging project: https://doi.org/10.25377/sussex.12573881 . The publication these come from is Bale et al (2021), "Sequence Learning Induces Selectivity to Multiple Task Parameters in Mouse Somatosensory Cortex", https://doi.org/10.1016/j.cub.2020.10.059.
