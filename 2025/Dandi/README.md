@@ -2,6 +2,8 @@
 
 This folder is meant to get you familiarized with the [DANDI archive](https://dandiarchive.org/). An archive that stores openly available neuroscience datasets in the NWB file format. This allows for streamlined data storage in a similar file format for ease of use between labs.
 
+The presentation delivered at the summer course can be found [here](https://docs.google.com/presentation/d/1cBvqckb9iyFSFWb4CXATwAuXMBOK420x76aCOrL8xs4/edit?slide=id.g361a05e26d6_0_67#slide=id.g361a05e26d6_0_67).
+
 ## Getting an overview of the available data
 
 Browsing the data is possible either manually on the [DANDI archive](https://dandiarchive.org/) or computationally. I made a little jupyter notebook where you can see how to load the data sets via the dandi python toolbox and screen how many datasets and what type of data are available.
