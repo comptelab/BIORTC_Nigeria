@@ -1,0 +1,13 @@
+# EEG data restricted by data use agreement. Do not commit these.
+# TUH corpus subsets are covered by the NEDC / Temple University DUA. They were
+# hosted here during the June 2026 workshop so participants could load them from
+# the course notebooks, under the teaching arrangement agreed with NEDC. That
+# arrangement ended with the course, and the files were removed on 2026-08-26 by
+# rewriting the history. Any future access should go through individual NEDC
+# registrations rather than this repository. YSUTH holds clinical recordings
+# from Yobe State University Teaching Hospital and was removed at the same time.
+2026/Data/TUH_EEG_Corpus/
+2026/Data/YSUTH/
+
+# Raw EEG recordings, wherever they appear.
+*.edf
